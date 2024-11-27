@@ -1,6 +1,8 @@
 # Hey, I'm Debbie 👋
 
-I’m a software developer with a keen interest in learning and building useful applications. I’ve had the opportunity to work with various technologies and enjoy collaborating with others to solve problems and grow together. Always eager to explore, learn, and improve! Below, you’ll find some of the tools and technologies I’ve worked with in the past.
+I’m a software developer with 6 years of experience, specializing in building scalable and user-friendly applications. Over the years, I’ve worked with a variety of technologies, delivering projects that solve real-world challenges and enhance user experiences.
+
+I take pride in writing clean, maintainable code and collaborating with teams to achieve project goals. Below, you’ll find some of the tools and technologies I’ve used to build efficient and impactful applications.
 
 #### Frontend
 
